@@ -15,7 +15,7 @@ I'm Shubham Singh, a self-driven Computer Science professional with a passion fo
 - **Programming Languages**: C++, Python, JavaScript
 - **Frontend**: React, HTML, CSS
 - **Backend**: Django, Node.js
-- **Databases**: SQL, NoSQL
+- **Databases**: SQL
 - **Other**: Git, Data Structures and Algorithms, Machine Learning
 
 ## 📫 Get in Touch
